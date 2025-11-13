@@ -29,18 +29,37 @@ The frontend is developed with **React + Vite + Tailwind CSS**, and the backend 
 - 📱 **Kavenegar** API for SMS notifications
 
 ---
+
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Mohammad-Reza-Mehdizadeh1999/Freelancering-App-with-React.js.git
 cd Freelancering-App-with-React.js
+```
+### 2️⃣ Install and Run Backend
+```bash 
 cd backend
 npm install
 npm run dev
-cd ../frontend
+```
+### 3️⃣ Install and Run Frontend
+```bash
+cd frontend
 npm install
 npm run dev
+```
+
+▶️ Run the Project
+
+Backend runs on http://localhost:5000
+
+Frontend runs on http://localhost:5173
+
+Make sure the backend is running before starting the frontend.
+
+🧑‍💻 Author
 
 Author: Mohammad Reza Mehdizadeh
 🌐 GitHub: https://github.com/Mohammad-Reza-Mehdizadeh1999
+
